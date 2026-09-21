@@ -38,6 +38,7 @@ formulario.addEventListener("submit", function(e){
 
     const soma = v1+v2
 
+
     document.getElementById("resultado").textContent=soma
 
 })
